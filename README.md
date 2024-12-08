@@ -1,2 +1,0 @@
-# PhanChauPhuThinhinfo.github.io
-infothinh
